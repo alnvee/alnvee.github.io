@@ -5,7 +5,7 @@ date: 2024-09-05
 tags: attachment email outlook powerapps powerautomate
 category: Power Platform
 ---
-**Using attachment control in PowerApps to send file attachments in outlook**
+## Using attachment control in PowerApps to send file attachments in outlook
 
 Using attachment control \
 ![from attachment control](/assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 150543.png)
