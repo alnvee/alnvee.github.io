@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Working with JSON in SQL Stored Procedures"
+description: "Using Stored Procedures to Update SQL Tables"
 date: 2024-09-05
 tags: sql procs stored procedures json
 category: SQL

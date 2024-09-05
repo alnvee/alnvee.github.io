@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Sending Attachments in Outlook from Powerapps"
+description: "Using attachment control in PowerApps to send file attachments in outlook"
 date: 2024-09-05
 tags: attachment email outlook powerapps powerautomate
 category: Power Platform

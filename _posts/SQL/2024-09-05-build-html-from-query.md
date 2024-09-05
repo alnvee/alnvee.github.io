@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Build HTML from SQL Query"
+description: "Using Stored Procedures to build HTML tables"
 date: 2024-09-05
 tags: sql procs stored procedures html table
 category: SQL
