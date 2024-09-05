@@ -3,7 +3,7 @@ layout: post
 title:  "Add User in SQL"
 description: "Add authenticated users that can be used by applications"
 date: 2024-09-06
-tags: sql user log-in authentication
+tags: sql user login authentication
 category: SQL
 ---
 ## Add SQL User
