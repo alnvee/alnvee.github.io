@@ -69,4 +69,3 @@ THEN
         GETDATE()
     );
 ```
-
