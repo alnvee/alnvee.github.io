@@ -2,7 +2,6 @@ layout: page
 title: "AlnVee"
 permalink: /
 
-
 <ul>
     {% for post in site.posts %}
       <li>
