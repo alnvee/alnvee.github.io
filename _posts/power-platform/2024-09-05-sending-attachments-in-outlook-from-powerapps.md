@@ -23,11 +23,11 @@ PowerAutomate Flow
 ![powerautomate flow](/assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 150920.png)
 
 Run Flow
-![run flow](<../../assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 151509.png>)
+![run flow](/assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 151509.png)
 
 Flow Setup
-![flow setup 1](<../../assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 151614.png>)
+![flow setup 1](/assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 151614.png)
 
-![flow setup 2](<../../assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 151628.png>)
+![flow setup 2](/assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 151628.png)
 
-![flow setup 3](<../../assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 151648.png>)
+![flow setup 3](/assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 151648.png)
