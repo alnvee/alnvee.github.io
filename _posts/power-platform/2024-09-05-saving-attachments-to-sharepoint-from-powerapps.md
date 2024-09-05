@@ -5,7 +5,6 @@ date: 2024-09-05
 tags: attachment sharepoint powerapps powerautomate
 category: Power Platform
 ---
-
 **Using attachment control in PowerApps to upload file to Sharepoint**
 
 Using attachment control
@@ -15,4 +14,4 @@ Call flow that handles Sharepoint upload
 ![call sharepoint flow](/assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 150744.png)
 
 PowerAutomate Flow
-![powerautomate flow](/assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 150920.png>)
+![powerautomate flow](/assets/img/2024-09-05-SavingAttachmentstoSharepointfromPowerapps/Screenshot 2024-09-05 150920.png)
