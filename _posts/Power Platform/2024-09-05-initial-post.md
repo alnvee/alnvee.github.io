@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 data: 2024-09-05
 tags: test hello
+category: Power Platform
 excerpt_separator: <!--more-->
 
 ---
