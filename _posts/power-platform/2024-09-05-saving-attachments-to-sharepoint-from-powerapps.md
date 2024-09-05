@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Saving Attachments to Sharepoint from Powerapps"
-description: Using attachment control in PowerApps to upload file to Sharepoint
+description: "Using attachment control in PowerApps to upload file to Sharepoint"
 date: 2024-09-05
 tags: attachment sharepoint powerapps powerautomate
 category: Power Platform
