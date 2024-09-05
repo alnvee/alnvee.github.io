@@ -8,7 +8,7 @@ category: SQL
 ---
 ## Working with JSON in SQL Stored Procedures
 
-Save Accounts Colors to a temporary table @accountColorsTable
+### Save Accounts Colors to a temporary table @accountColorsTable
 
 ```sql
 DECLARE @accountColorsTable TABLE(

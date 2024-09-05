@@ -11,18 +11,18 @@ category: SQL
 ### Add User in the Master DB
 
 ```sql
-CREATE LOGIN user WITH PASSWORD = '**pass**';
+CREATE LOGIN user WITH PASSWORD = '**pass**'
 ```
 
 ### Add User in the Working DB
 
 ```sql
-CREATE USER user FOR LOGIN user;
+CREATE USER user FOR LOGIN user
 ```
 
 ### Grant CRUD Access to the User in the Working DB
 
 ```sql
-ALTER ROLE db_datareader ADD MEMBER user;
-ALTER ROLE db_datawriter ADD MEMBER user;
+ALTER ROLE db_datareader ADD MEMBER user
+ALTER ROLE db_datawriter ADD MEMBER user
 ```
