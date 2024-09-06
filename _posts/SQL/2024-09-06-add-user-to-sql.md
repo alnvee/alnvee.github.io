@@ -11,7 +11,7 @@ category: SQL
 ### Add User in the Master DB
 
 ```sql
-CREATE LOGIN user WITH PASSWORD = '**pass**'
+CREATE LOGIN user WITH PASSWORD = '**pass**';
 ```
 
 ### Add User in the Working DB
