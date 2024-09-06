@@ -8,10 +8,16 @@ category: SQL
 ---
 ## Add SQL User
 
-### Add User in the Master DB
+### Add User in the Master DB with Password Auth
 
 ```sql
 CREATE LOGIN user WITH PASSWORD = '**pass**';
+```
+
+### Add User in the Master DB using EntraID
+
+```sql
+CREATE LOGIN [user@company.com] FROM EXTERNAL PROVIDER
 ```
 
 ### Add User in the Working DB
