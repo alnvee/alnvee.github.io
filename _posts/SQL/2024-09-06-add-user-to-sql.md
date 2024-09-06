@@ -26,3 +26,9 @@ CREATE USER user FOR LOGIN user
 ALTER ROLE db_datareader ADD MEMBER user
 ALTER ROLE db_datawriter ADD MEMBER user
 ```
+
+### Grant Execute Permissions to Procs in a DB
+
+```sql
+USE [DB] GRANT EXEC TO [User_Name];
+```
